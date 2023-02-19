@@ -4,7 +4,7 @@ import Router from "./routes/Router";
 import { LoadingProvider } from "./contexts/loading/LoadingContext";
 
 function App() {
-  console.log("working");
+  console.log("man working");
   return (
     <BrowserRouter>
       <LoadingProvider>
